@@ -1,2 +1,3 @@
 # Background-Generator
-Mayank Tolani
+## Generate your desired background gradients.
+Mayank K Tolani
